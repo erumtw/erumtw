@@ -1,10 +1,10 @@
-Hi 👋 My name is Ammari Thaowan
+Sup 👋 I'm Ammari Thaowan
 ===============================
 
 Computer Engineering Student
 ----------------------------
 
-Bismillah Now I'm studying at KMITl, Practicing to be a good Software Engineer, probably focusing on web or app/mobile dev. but also interested in blockchain(not learning yet).
+Bismillah. Now I'm studying at KMITl, Practicing to be a good Software Engineer, probably focusing on web or app/mobile dev. but also interested in blockchain(not learning yet).
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [tw.ammari@gmail.com](mailto:tw.ammari@gmail.com)
