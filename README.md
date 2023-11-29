@@ -4,9 +4,9 @@ Sup 👋 I'm Ammari Thaowan
 Computer Engineering Student
 ----------------------------
 
-Bismillah. I'm studying at KMITl.
+Now I'm a 3rd-year student at KMITL university, experienced in mobile, web app and some image processing, but now I'm most interested and focusing on Android mobile app development with Flutter and kotlin, and eager to learning more further. InshaAllah
 
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  I'm based in Bangkok, Thailand.
 * ✉️  You can contact me at [tw.ammari@gmail.com](mailto:tw.ammari@gmail.com)
 
 ### Skills
